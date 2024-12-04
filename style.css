@@ -1,0 +1,113 @@
+.body {
+  margin: 0;
+  padding: 0;
+}
+.Heading {
+  width: 100%;
+  height: 100vh;
+  background-color: blue;
+}
+.box-menu {
+  width: 100%;
+  height: 15%;
+  background-color: gray;
+}
+.logo {
+  width: 40%;
+  height: 100%;
+  background-color: gray;
+  top: 0;
+  left: 20px;
+}
+.logo img {
+  width: 100%;
+  height: 100%;
+}
+.box-menu {
+  width: 100%;
+  background-color: gray;
+  display: flex;
+}
+/* .text {
+  display: flex;
+} */
+.text ul {
+  font-size: 30px;
+  color: black;
+  font-family: "Times New Roman";
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 100px;
+  float: left;
+  list-style-type: none;
+  gap: 70px;
+}
+.body {
+  width: 100%;
+  height: 100vh;
+  position: relative;
+}
+.box-text {
+  width: 700px;
+  height: 85vh;
+  background-color: blueviolet;
+  position: absolute;
+  top: 97px;
+  left: -974px;
+}
+.box-text h1 {
+  font-size: 40px;
+  font-family: "Times New Roman";
+  align-items: center;
+  color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 5px;
+  margin-top: 70px;
+}
+.box-text p {
+  font-size: 25px;
+  font-family: "Times New Roman";
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 0;
+}
+.contact {
+  width: 145px;
+  height: 50px;
+  background-color: brown;
+  top: 20px;
+  left: 300px;
+  position: relative;
+  border-radius: 20px;
+}
+.contact h2 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+  align-items: center;
+  color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 4px;
+  position: absolute;
+  margin-top: 9px;
+}
+.pic {
+  width: 250px;
+  height: 100vh;
+  background-color: burlywood;
+  position: absolute;
+  top: 83px;
+  left: -935px;
+}
+.img {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+# line
